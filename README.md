@@ -1,9 +1,9 @@
-# FT_TRANSCENDENCE
+# ping-pong-site
 ---
 ## Project Overview
 ---
 
-ft_transcendence is an interactive online gaming platform with real-time chat integration, leveraging single-page application (SPA) design principles for enhanced user experiences.
+ping-pong-site is an interactive online gaming platform with real-time chat integration, leveraging single-page application (SPA) design principles for enhanced user experiences.
 
 ![image](assets/Landing_Page.png)
 
